@@ -4,11 +4,12 @@ API de Gerenciamento de Produtos
 
 Esta API foi desenvolvida utilizando Flask e SQLAlchemy, com o suporte do Flask-OpenAPI para documentação automática. Ela permite o gerenciamento completo de produtos, incluindo a adição, visualização, remoção e busca de produtos armazenados em um banco de dados SQLite. A API também conta com a documentação automática via Swagger, Redoc, e RapiDoc, permitindo fácil visualização e interação com os endpoints.
 
-Funcionalidades principais:
-Adicionar produtos: Insere um novo produto na base de dados.
-Listar todos os produtos: Retorna uma listagem de todos os produtos cadastrados.
-Remover produto: Remove um produto específico da base de dados.
-Obter totais: Retorna o número total de produtos cadastrados e a soma de todos os itens em estoque.
+# Funcionalidades principais: 
+
+1. Adicionar produtos: Insere um novo produto na base de dados. 
+2. Listar todos os produtos: Retorna uma listagem de todos os produtos cadastrados. 
+3. Remover produto: Remove um produto específico da base de dados. 
+4. Obter totais: Retorna o número total de produtos cadastrados e a soma de todos os itens em estoque.
 
 
 ---
