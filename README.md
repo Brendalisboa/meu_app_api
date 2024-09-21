@@ -2,7 +2,8 @@
 
 API de Gerenciamento de Produtos
 
-Esta API foi desenvolvida utilizando Flask e SQLAlchemy, com o suporte do Flask-OpenAPI para documentação automática. Ela permite o gerenciamento completo de produtos, incluindo a adição, visualização, remoção e busca de produtos armazenados em um banco de dados SQLite. A API também conta com a documentação automática via Swagger, Redoc, e RapiDoc, permitindo fácil visualização e interação com os endpoints.
+O propósito dessa API é gerenciar produtos, permitindo operações básicas de inventário. 
+Foi desenvolvida utilizando Flask e SQLAlchemy, com o suporte do Flask-OpenAPI para documentação automática. Ela permite o gerenciamento completo de produtos, incluindo a adição, visualização, remoção e busca de produtos armazenados em um banco de dados SQLite. A API também conta com a documentação automática via Swagger, Redoc, e RapiDoc, permitindo fácil visualização e interação com os endpoints.
 
 # Funcionalidades principais: 
 
